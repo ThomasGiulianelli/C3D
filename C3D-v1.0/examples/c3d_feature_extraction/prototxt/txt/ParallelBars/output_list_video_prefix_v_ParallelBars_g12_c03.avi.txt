@@ -1,0 +1,10 @@
+output/c3d/ParallelBars/v_ParallelBars_g12_c03.avi/000000
+output/c3d/ParallelBars/v_ParallelBars_g12_c03.avi/000016
+output/c3d/ParallelBars/v_ParallelBars_g12_c03.avi/000032
+output/c3d/ParallelBars/v_ParallelBars_g12_c03.avi/000048
+output/c3d/ParallelBars/v_ParallelBars_g12_c03.avi/000064
+output/c3d/ParallelBars/v_ParallelBars_g12_c03.avi/000080
+output/c3d/ParallelBars/v_ParallelBars_g12_c03.avi/000096
+output/c3d/ParallelBars/v_ParallelBars_g12_c03.avi/000112
+output/c3d/ParallelBars/v_ParallelBars_g12_c03.avi/000128
+output/c3d/ParallelBars/v_ParallelBars_g12_c03.avi/000144

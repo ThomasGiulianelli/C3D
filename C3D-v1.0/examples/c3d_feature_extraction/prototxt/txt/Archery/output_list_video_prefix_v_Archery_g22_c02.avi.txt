@@ -1,0 +1,4 @@
+output/c3d/Archery/v_Archery_g22_c02.avi/000000
+output/c3d/Archery/v_Archery_g22_c02.avi/000016
+output/c3d/Archery/v_Archery_g22_c02.avi/000032
+output/c3d/Archery/v_Archery_g22_c02.avi/000048

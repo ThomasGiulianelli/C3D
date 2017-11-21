@@ -1,0 +1,4 @@
+output/c3d/BaseballPitch/v_BaseballPitch_g07_c07.avi/000000
+output/c3d/BaseballPitch/v_BaseballPitch_g07_c07.avi/000016
+output/c3d/BaseballPitch/v_BaseballPitch_g07_c07.avi/000032
+output/c3d/BaseballPitch/v_BaseballPitch_g07_c07.avi/000048

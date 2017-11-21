@@ -1,0 +1,4 @@
+input/avi/UCF-101/BodyWeightSquats/v_BodyWeightSquats_g13_c04.avi 0 0
+input/avi/UCF-101/BodyWeightSquats/v_BodyWeightSquats_g13_c04.avi 16 0
+input/avi/UCF-101/BodyWeightSquats/v_BodyWeightSquats_g13_c04.avi 32 0
+input/avi/UCF-101/BodyWeightSquats/v_BodyWeightSquats_g13_c04.avi 48 0

@@ -1,0 +1,3 @@
+output/c3d/BlowingCandles/v_BlowingCandles_g03_c02.avi/000000
+output/c3d/BlowingCandles/v_BlowingCandles_g03_c02.avi/000016
+output/c3d/BlowingCandles/v_BlowingCandles_g03_c02.avi/000032

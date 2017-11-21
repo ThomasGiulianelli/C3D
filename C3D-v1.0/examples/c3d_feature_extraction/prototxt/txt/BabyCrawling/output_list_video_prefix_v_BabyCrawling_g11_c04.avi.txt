@@ -1,0 +1,6 @@
+output/c3d/BabyCrawling/v_BabyCrawling_g11_c04.avi/000000
+output/c3d/BabyCrawling/v_BabyCrawling_g11_c04.avi/000016
+output/c3d/BabyCrawling/v_BabyCrawling_g11_c04.avi/000032
+output/c3d/BabyCrawling/v_BabyCrawling_g11_c04.avi/000048
+output/c3d/BabyCrawling/v_BabyCrawling_g11_c04.avi/000064
+output/c3d/BabyCrawling/v_BabyCrawling_g11_c04.avi/000080

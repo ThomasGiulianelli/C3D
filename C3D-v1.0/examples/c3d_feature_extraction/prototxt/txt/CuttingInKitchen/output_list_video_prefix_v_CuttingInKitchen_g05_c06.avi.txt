@@ -1,0 +1,8 @@
+output/c3d/CuttingInKitchen/v_CuttingInKitchen_g05_c06.avi/000000
+output/c3d/CuttingInKitchen/v_CuttingInKitchen_g05_c06.avi/000016
+output/c3d/CuttingInKitchen/v_CuttingInKitchen_g05_c06.avi/000032
+output/c3d/CuttingInKitchen/v_CuttingInKitchen_g05_c06.avi/000048
+output/c3d/CuttingInKitchen/v_CuttingInKitchen_g05_c06.avi/000064
+output/c3d/CuttingInKitchen/v_CuttingInKitchen_g05_c06.avi/000080
+output/c3d/CuttingInKitchen/v_CuttingInKitchen_g05_c06.avi/000096
+output/c3d/CuttingInKitchen/v_CuttingInKitchen_g05_c06.avi/000112

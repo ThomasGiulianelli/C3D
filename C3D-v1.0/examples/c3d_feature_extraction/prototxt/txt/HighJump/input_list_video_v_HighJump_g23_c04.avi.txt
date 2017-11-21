@@ -1,0 +1,5 @@
+input/avi/UCF-101/HighJump/v_HighJump_g23_c04.avi 0 0
+input/avi/UCF-101/HighJump/v_HighJump_g23_c04.avi 16 0
+input/avi/UCF-101/HighJump/v_HighJump_g23_c04.avi 32 0
+input/avi/UCF-101/HighJump/v_HighJump_g23_c04.avi 48 0
+input/avi/UCF-101/HighJump/v_HighJump_g23_c04.avi 64 0

@@ -1,0 +1,5 @@
+input/avi/UCF-101/Archery/v_Archery_g09_c02.avi 0 0
+input/avi/UCF-101/Archery/v_Archery_g09_c02.avi 16 0
+input/avi/UCF-101/Archery/v_Archery_g09_c02.avi 32 0
+input/avi/UCF-101/Archery/v_Archery_g09_c02.avi 48 0
+input/avi/UCF-101/Archery/v_Archery_g09_c02.avi 64 0

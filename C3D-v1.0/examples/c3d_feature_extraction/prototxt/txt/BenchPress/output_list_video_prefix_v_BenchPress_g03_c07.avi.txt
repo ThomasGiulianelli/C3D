@@ -1,0 +1,5 @@
+output/c3d/BenchPress/v_BenchPress_g03_c07.avi/000000
+output/c3d/BenchPress/v_BenchPress_g03_c07.avi/000016
+output/c3d/BenchPress/v_BenchPress_g03_c07.avi/000032
+output/c3d/BenchPress/v_BenchPress_g03_c07.avi/000048
+output/c3d/BenchPress/v_BenchPress_g03_c07.avi/000064

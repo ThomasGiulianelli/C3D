@@ -1,0 +1,3 @@
+output/c3d/HighJump/v_HighJump_g19_c03.avi/000000
+output/c3d/HighJump/v_HighJump_g19_c03.avi/000016
+output/c3d/HighJump/v_HighJump_g19_c03.avi/000032

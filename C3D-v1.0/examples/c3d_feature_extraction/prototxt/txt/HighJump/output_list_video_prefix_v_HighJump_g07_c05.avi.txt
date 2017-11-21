@@ -1,0 +1,5 @@
+output/c3d/HighJump/v_HighJump_g07_c05.avi/000000
+output/c3d/HighJump/v_HighJump_g07_c05.avi/000016
+output/c3d/HighJump/v_HighJump_g07_c05.avi/000032
+output/c3d/HighJump/v_HighJump_g07_c05.avi/000048
+output/c3d/HighJump/v_HighJump_g07_c05.avi/000064

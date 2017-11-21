@@ -1,0 +1,3 @@
+input/avi/UCF-101/JavelinThrow/v_JavelinThrow_g14_c05.avi 0 0
+input/avi/UCF-101/JavelinThrow/v_JavelinThrow_g14_c05.avi 16 0
+input/avi/UCF-101/JavelinThrow/v_JavelinThrow_g14_c05.avi 32 0

@@ -1,0 +1,3 @@
+output/c3d/CliffDiving/v_CliffDiving_g07_c01.avi/000000
+output/c3d/CliffDiving/v_CliffDiving_g07_c01.avi/000016
+output/c3d/CliffDiving/v_CliffDiving_g07_c01.avi/000032

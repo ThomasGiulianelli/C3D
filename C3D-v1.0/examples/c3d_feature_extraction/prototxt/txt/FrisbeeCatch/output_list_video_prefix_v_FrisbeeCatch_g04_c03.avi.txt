@@ -1,0 +1,4 @@
+output/c3d/FrisbeeCatch/v_FrisbeeCatch_g04_c03.avi/000000
+output/c3d/FrisbeeCatch/v_FrisbeeCatch_g04_c03.avi/000016
+output/c3d/FrisbeeCatch/v_FrisbeeCatch_g04_c03.avi/000032
+output/c3d/FrisbeeCatch/v_FrisbeeCatch_g04_c03.avi/000048

@@ -1,0 +1,6 @@
+input/avi/UCF-101/BaseballPitch/v_BaseballPitch_g23_c07.avi 0 0
+input/avi/UCF-101/BaseballPitch/v_BaseballPitch_g23_c07.avi 16 0
+input/avi/UCF-101/BaseballPitch/v_BaseballPitch_g23_c07.avi 32 0
+input/avi/UCF-101/BaseballPitch/v_BaseballPitch_g23_c07.avi 48 0
+input/avi/UCF-101/BaseballPitch/v_BaseballPitch_g23_c07.avi 64 0
+input/avi/UCF-101/BaseballPitch/v_BaseballPitch_g23_c07.avi 80 0

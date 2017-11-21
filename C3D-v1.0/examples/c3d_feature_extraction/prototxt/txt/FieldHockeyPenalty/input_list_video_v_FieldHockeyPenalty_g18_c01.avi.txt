@@ -1,0 +1,3 @@
+input/avi/UCF-101/FieldHockeyPenalty/v_FieldHockeyPenalty_g18_c01.avi 0 0
+input/avi/UCF-101/FieldHockeyPenalty/v_FieldHockeyPenalty_g18_c01.avi 16 0
+input/avi/UCF-101/FieldHockeyPenalty/v_FieldHockeyPenalty_g18_c01.avi 32 0

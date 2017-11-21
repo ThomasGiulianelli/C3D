@@ -1,0 +1,1 @@
+input/avi/UCF-101/PushUps/v_PushUps_g16_c03.avi 0 0

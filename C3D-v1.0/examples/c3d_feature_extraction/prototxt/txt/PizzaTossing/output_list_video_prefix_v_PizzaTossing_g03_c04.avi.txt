@@ -1,0 +1,2 @@
+output/c3d/PizzaTossing/v_PizzaTossing_g03_c04.avi/000000
+output/c3d/PizzaTossing/v_PizzaTossing_g03_c04.avi/000016

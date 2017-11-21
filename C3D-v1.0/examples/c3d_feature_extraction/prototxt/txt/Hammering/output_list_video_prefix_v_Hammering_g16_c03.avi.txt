@@ -1,0 +1,3 @@
+output/c3d/Hammering/v_Hammering_g16_c03.avi/000000
+output/c3d/Hammering/v_Hammering_g16_c03.avi/000016
+output/c3d/Hammering/v_Hammering_g16_c03.avi/000032

@@ -1,0 +1,4 @@
+output/c3d/WallPushups/v_WallPushups_g21_c01.avi/000000
+output/c3d/WallPushups/v_WallPushups_g21_c01.avi/000016
+output/c3d/WallPushups/v_WallPushups_g21_c01.avi/000032
+output/c3d/WallPushups/v_WallPushups_g21_c01.avi/000048

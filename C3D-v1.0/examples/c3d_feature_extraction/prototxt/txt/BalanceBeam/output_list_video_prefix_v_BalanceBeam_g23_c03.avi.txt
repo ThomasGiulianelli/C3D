@@ -1,0 +1,3 @@
+output/c3d/BalanceBeam/v_BalanceBeam_g23_c03.avi/000000
+output/c3d/BalanceBeam/v_BalanceBeam_g23_c03.avi/000016
+output/c3d/BalanceBeam/v_BalanceBeam_g23_c03.avi/000032

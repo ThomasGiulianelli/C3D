@@ -1,0 +1,5 @@
+input/avi/UCF-101/JumpingJack/v_JumpingJack_g19_c01.avi 0 0
+input/avi/UCF-101/JumpingJack/v_JumpingJack_g19_c01.avi 16 0
+input/avi/UCF-101/JumpingJack/v_JumpingJack_g19_c01.avi 32 0
+input/avi/UCF-101/JumpingJack/v_JumpingJack_g19_c01.avi 48 0
+input/avi/UCF-101/JumpingJack/v_JumpingJack_g19_c01.avi 64 0

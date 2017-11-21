@@ -1,0 +1,3 @@
+input/avi/UCF-101/BasketballDunk/v_BasketballDunk_g10_c02.avi 0 0
+input/avi/UCF-101/BasketballDunk/v_BasketballDunk_g10_c02.avi 16 0
+input/avi/UCF-101/BasketballDunk/v_BasketballDunk_g10_c02.avi 32 0

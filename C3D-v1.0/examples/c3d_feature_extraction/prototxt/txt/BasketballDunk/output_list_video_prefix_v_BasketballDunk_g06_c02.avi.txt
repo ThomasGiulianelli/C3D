@@ -1,0 +1,3 @@
+output/c3d/BasketballDunk/v_BasketballDunk_g06_c02.avi/000000
+output/c3d/BasketballDunk/v_BasketballDunk_g06_c02.avi/000016
+output/c3d/BasketballDunk/v_BasketballDunk_g06_c02.avi/000032

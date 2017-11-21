@@ -1,0 +1,5 @@
+output/c3d/ThrowDiscus/v_ThrowDiscus_g12_c02.avi/000000
+output/c3d/ThrowDiscus/v_ThrowDiscus_g12_c02.avi/000016
+output/c3d/ThrowDiscus/v_ThrowDiscus_g12_c02.avi/000032
+output/c3d/ThrowDiscus/v_ThrowDiscus_g12_c02.avi/000048
+output/c3d/ThrowDiscus/v_ThrowDiscus_g12_c02.avi/000064

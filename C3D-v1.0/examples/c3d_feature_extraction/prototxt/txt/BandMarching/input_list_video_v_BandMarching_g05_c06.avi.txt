@@ -1,0 +1,4 @@
+input/avi/UCF-101/BandMarching/v_BandMarching_g05_c06.avi 0 0
+input/avi/UCF-101/BandMarching/v_BandMarching_g05_c06.avi 16 0
+input/avi/UCF-101/BandMarching/v_BandMarching_g05_c06.avi 32 0
+input/avi/UCF-101/BandMarching/v_BandMarching_g05_c06.avi 48 0

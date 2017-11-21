@@ -1,0 +1,3 @@
+output/c3d/HandstandPushups/v_HandStandPushups_g22_c05.avi/000000
+output/c3d/HandstandPushups/v_HandStandPushups_g22_c05.avi/000016
+output/c3d/HandstandPushups/v_HandStandPushups_g22_c05.avi/000032

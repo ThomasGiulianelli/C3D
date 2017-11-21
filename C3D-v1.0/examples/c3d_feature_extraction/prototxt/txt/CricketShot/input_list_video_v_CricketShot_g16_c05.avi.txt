@@ -1,0 +1,2 @@
+input/avi/UCF-101/CricketShot/v_CricketShot_g16_c05.avi 0 0
+input/avi/UCF-101/CricketShot/v_CricketShot_g16_c05.avi 16 0

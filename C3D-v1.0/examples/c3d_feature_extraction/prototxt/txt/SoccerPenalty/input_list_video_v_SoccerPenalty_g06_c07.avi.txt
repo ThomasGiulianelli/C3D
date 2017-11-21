@@ -1,0 +1,3 @@
+input/avi/UCF-101/SoccerPenalty/v_SoccerPenalty_g06_c07.avi 0 0
+input/avi/UCF-101/SoccerPenalty/v_SoccerPenalty_g06_c07.avi 16 0
+input/avi/UCF-101/SoccerPenalty/v_SoccerPenalty_g06_c07.avi 32 0

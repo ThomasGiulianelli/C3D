@@ -1,0 +1,9 @@
+input/avi/UCF-101/HorseRiding/v_HorseRiding_g08_c01.avi 0 0
+input/avi/UCF-101/HorseRiding/v_HorseRiding_g08_c01.avi 16 0
+input/avi/UCF-101/HorseRiding/v_HorseRiding_g08_c01.avi 32 0
+input/avi/UCF-101/HorseRiding/v_HorseRiding_g08_c01.avi 48 0
+input/avi/UCF-101/HorseRiding/v_HorseRiding_g08_c01.avi 64 0
+input/avi/UCF-101/HorseRiding/v_HorseRiding_g08_c01.avi 80 0
+input/avi/UCF-101/HorseRiding/v_HorseRiding_g08_c01.avi 96 0
+input/avi/UCF-101/HorseRiding/v_HorseRiding_g08_c01.avi 112 0
+input/avi/UCF-101/HorseRiding/v_HorseRiding_g08_c01.avi 128 0

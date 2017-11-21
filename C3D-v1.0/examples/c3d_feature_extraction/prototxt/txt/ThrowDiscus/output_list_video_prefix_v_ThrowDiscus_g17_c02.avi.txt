@@ -1,0 +1,3 @@
+output/c3d/ThrowDiscus/v_ThrowDiscus_g17_c02.avi/000000
+output/c3d/ThrowDiscus/v_ThrowDiscus_g17_c02.avi/000016
+output/c3d/ThrowDiscus/v_ThrowDiscus_g17_c02.avi/000032

@@ -1,0 +1,2 @@
+output/c3d/SoccerPenalty/v_SoccerPenalty_g12_c06.avi/000000
+output/c3d/SoccerPenalty/v_SoccerPenalty_g12_c06.avi/000016

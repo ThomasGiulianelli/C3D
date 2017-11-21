@@ -1,0 +1,2 @@
+input/avi/UCF-101/CuttingInKitchen/v_CuttingInKitchen_g19_c02.avi 0 0
+input/avi/UCF-101/CuttingInKitchen/v_CuttingInKitchen_g19_c02.avi 16 0

@@ -1,0 +1,6 @@
+output/c3d/Mixing/v_Mixing_g19_c01.avi/000000
+output/c3d/Mixing/v_Mixing_g19_c01.avi/000016
+output/c3d/Mixing/v_Mixing_g19_c01.avi/000032
+output/c3d/Mixing/v_Mixing_g19_c01.avi/000048
+output/c3d/Mixing/v_Mixing_g19_c01.avi/000064
+output/c3d/Mixing/v_Mixing_g19_c01.avi/000080

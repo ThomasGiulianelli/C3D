@@ -1,0 +1,1 @@
+input/avi/UCF-101/HorseRiding/v_HorseRiding_g14_c02.avi 0 0

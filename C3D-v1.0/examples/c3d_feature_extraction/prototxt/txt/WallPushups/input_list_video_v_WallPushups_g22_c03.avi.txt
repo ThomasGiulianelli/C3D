@@ -1,0 +1,4 @@
+input/avi/UCF-101/WallPushups/v_WallPushups_g22_c03.avi 0 0
+input/avi/UCF-101/WallPushups/v_WallPushups_g22_c03.avi 16 0
+input/avi/UCF-101/WallPushups/v_WallPushups_g22_c03.avi 32 0
+input/avi/UCF-101/WallPushups/v_WallPushups_g22_c03.avi 48 0

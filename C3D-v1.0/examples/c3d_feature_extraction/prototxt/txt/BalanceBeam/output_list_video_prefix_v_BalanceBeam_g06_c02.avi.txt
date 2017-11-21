@@ -1,0 +1,7 @@
+output/c3d/BalanceBeam/v_BalanceBeam_g06_c02.avi/000000
+output/c3d/BalanceBeam/v_BalanceBeam_g06_c02.avi/000016
+output/c3d/BalanceBeam/v_BalanceBeam_g06_c02.avi/000032
+output/c3d/BalanceBeam/v_BalanceBeam_g06_c02.avi/000048
+output/c3d/BalanceBeam/v_BalanceBeam_g06_c02.avi/000064
+output/c3d/BalanceBeam/v_BalanceBeam_g06_c02.avi/000080
+output/c3d/BalanceBeam/v_BalanceBeam_g06_c02.avi/000096

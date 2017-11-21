@@ -1,0 +1,9 @@
+input/avi/UCF-101/ApplyEyeMakeup/v_ApplyEyeMakeup_g03_c06.avi 0 0
+input/avi/UCF-101/ApplyEyeMakeup/v_ApplyEyeMakeup_g03_c06.avi 16 0
+input/avi/UCF-101/ApplyEyeMakeup/v_ApplyEyeMakeup_g03_c06.avi 32 0
+input/avi/UCF-101/ApplyEyeMakeup/v_ApplyEyeMakeup_g03_c06.avi 48 0
+input/avi/UCF-101/ApplyEyeMakeup/v_ApplyEyeMakeup_g03_c06.avi 64 0
+input/avi/UCF-101/ApplyEyeMakeup/v_ApplyEyeMakeup_g03_c06.avi 80 0
+input/avi/UCF-101/ApplyEyeMakeup/v_ApplyEyeMakeup_g03_c06.avi 96 0
+input/avi/UCF-101/ApplyEyeMakeup/v_ApplyEyeMakeup_g03_c06.avi 112 0
+input/avi/UCF-101/ApplyEyeMakeup/v_ApplyEyeMakeup_g03_c06.avi 128 0

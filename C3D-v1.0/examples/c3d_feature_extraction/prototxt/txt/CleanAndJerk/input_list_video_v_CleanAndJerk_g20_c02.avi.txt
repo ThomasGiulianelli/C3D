@@ -1,0 +1,17 @@
+input/avi/UCF-101/CleanAndJerk/v_CleanAndJerk_g20_c02.avi 0 0
+input/avi/UCF-101/CleanAndJerk/v_CleanAndJerk_g20_c02.avi 16 0
+input/avi/UCF-101/CleanAndJerk/v_CleanAndJerk_g20_c02.avi 32 0
+input/avi/UCF-101/CleanAndJerk/v_CleanAndJerk_g20_c02.avi 48 0
+input/avi/UCF-101/CleanAndJerk/v_CleanAndJerk_g20_c02.avi 64 0
+input/avi/UCF-101/CleanAndJerk/v_CleanAndJerk_g20_c02.avi 80 0
+input/avi/UCF-101/CleanAndJerk/v_CleanAndJerk_g20_c02.avi 96 0
+input/avi/UCF-101/CleanAndJerk/v_CleanAndJerk_g20_c02.avi 112 0
+input/avi/UCF-101/CleanAndJerk/v_CleanAndJerk_g20_c02.avi 128 0
+input/avi/UCF-101/CleanAndJerk/v_CleanAndJerk_g20_c02.avi 144 0
+input/avi/UCF-101/CleanAndJerk/v_CleanAndJerk_g20_c02.avi 160 0
+input/avi/UCF-101/CleanAndJerk/v_CleanAndJerk_g20_c02.avi 176 0
+input/avi/UCF-101/CleanAndJerk/v_CleanAndJerk_g20_c02.avi 192 0
+input/avi/UCF-101/CleanAndJerk/v_CleanAndJerk_g20_c02.avi 208 0
+input/avi/UCF-101/CleanAndJerk/v_CleanAndJerk_g20_c02.avi 224 0
+input/avi/UCF-101/CleanAndJerk/v_CleanAndJerk_g20_c02.avi 240 0
+input/avi/UCF-101/CleanAndJerk/v_CleanAndJerk_g20_c02.avi 256 0

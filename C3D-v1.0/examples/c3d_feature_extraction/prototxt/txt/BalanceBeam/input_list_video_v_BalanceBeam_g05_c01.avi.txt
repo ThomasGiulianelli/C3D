@@ -1,0 +1,5 @@
+input/avi/UCF-101/BalanceBeam/v_BalanceBeam_g05_c01.avi 0 0
+input/avi/UCF-101/BalanceBeam/v_BalanceBeam_g05_c01.avi 16 0
+input/avi/UCF-101/BalanceBeam/v_BalanceBeam_g05_c01.avi 32 0
+input/avi/UCF-101/BalanceBeam/v_BalanceBeam_g05_c01.avi 48 0
+input/avi/UCF-101/BalanceBeam/v_BalanceBeam_g05_c01.avi 64 0

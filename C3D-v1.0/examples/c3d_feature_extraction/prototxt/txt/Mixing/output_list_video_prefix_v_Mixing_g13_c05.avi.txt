@@ -1,0 +1,3 @@
+output/c3d/Mixing/v_Mixing_g13_c05.avi/000000
+output/c3d/Mixing/v_Mixing_g13_c05.avi/000016
+output/c3d/Mixing/v_Mixing_g13_c05.avi/000032

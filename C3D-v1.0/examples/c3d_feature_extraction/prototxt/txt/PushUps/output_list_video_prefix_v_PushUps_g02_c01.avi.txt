@@ -1,0 +1,4 @@
+output/c3d/PushUps/v_PushUps_g02_c01.avi/000000
+output/c3d/PushUps/v_PushUps_g02_c01.avi/000016
+output/c3d/PushUps/v_PushUps_g02_c01.avi/000032
+output/c3d/PushUps/v_PushUps_g02_c01.avi/000048

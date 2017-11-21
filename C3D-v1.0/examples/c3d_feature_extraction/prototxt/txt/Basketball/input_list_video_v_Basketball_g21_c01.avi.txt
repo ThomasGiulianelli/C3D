@@ -1,0 +1,4 @@
+input/avi/UCF-101/Basketball/v_Basketball_g21_c01.avi 0 0
+input/avi/UCF-101/Basketball/v_Basketball_g21_c01.avi 16 0
+input/avi/UCF-101/Basketball/v_Basketball_g21_c01.avi 32 0
+input/avi/UCF-101/Basketball/v_Basketball_g21_c01.avi 48 0

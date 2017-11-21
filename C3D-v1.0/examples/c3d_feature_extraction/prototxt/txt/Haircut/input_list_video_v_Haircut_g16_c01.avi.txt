@@ -1,0 +1,6 @@
+input/avi/UCF-101/Haircut/v_Haircut_g16_c01.avi 0 0
+input/avi/UCF-101/Haircut/v_Haircut_g16_c01.avi 16 0
+input/avi/UCF-101/Haircut/v_Haircut_g16_c01.avi 32 0
+input/avi/UCF-101/Haircut/v_Haircut_g16_c01.avi 48 0
+input/avi/UCF-101/Haircut/v_Haircut_g16_c01.avi 64 0
+input/avi/UCF-101/Haircut/v_Haircut_g16_c01.avi 80 0

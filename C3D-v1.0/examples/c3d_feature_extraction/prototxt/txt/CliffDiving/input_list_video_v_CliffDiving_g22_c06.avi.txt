@@ -1,0 +1,5 @@
+input/avi/UCF-101/CliffDiving/v_CliffDiving_g22_c06.avi 0 0
+input/avi/UCF-101/CliffDiving/v_CliffDiving_g22_c06.avi 16 0
+input/avi/UCF-101/CliffDiving/v_CliffDiving_g22_c06.avi 32 0
+input/avi/UCF-101/CliffDiving/v_CliffDiving_g22_c06.avi 48 0
+input/avi/UCF-101/CliffDiving/v_CliffDiving_g22_c06.avi 64 0

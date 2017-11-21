@@ -1,0 +1,3 @@
+output/c3d/GolfSwing/v_GolfSwing_g12_c02.avi/000000
+output/c3d/GolfSwing/v_GolfSwing_g12_c02.avi/000016
+output/c3d/GolfSwing/v_GolfSwing_g12_c02.avi/000032

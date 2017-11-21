@@ -1,0 +1,3 @@
+output/c3d/CricketShot/v_CricketShot_g15_c04.avi/000000
+output/c3d/CricketShot/v_CricketShot_g15_c04.avi/000016
+output/c3d/CricketShot/v_CricketShot_g15_c04.avi/000032

@@ -1,0 +1,2 @@
+output/c3d/BenchPress/v_BenchPress_g15_c06.avi/000000
+output/c3d/BenchPress/v_BenchPress_g15_c06.avi/000016
