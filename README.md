@@ -32,3 +32,5 @@ To replicate my experiment, you need to download the UCF-101 dataset and save it
 10. `create_XY2.m`
 11. `create_XY3.m`
 12. `action_recognition.m` - this script trains three SVM models and uses them to predict human action labels for unseen videos. Accuracy is then calculated.
+
+Notes: you may have to run hdf6Fix.sh and create some symbolic links to missing libraries before doing anything else, although I don't think this is necessary because I provided the build files.
