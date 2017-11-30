@@ -20,7 +20,7 @@ I added the files into the C3D-v1.0 directory. More specifically, my scripts are
 A main issue with my scripts right now is that they contain absolute paths, so these paths need to be edited to reflect the actual directory they are in before you run them.
 
 To replicate my experiment, you need to download the UCF-101 dataset and save it into `C3D-v1.0/examples/c3d_feature_extraction/input/avi/`, then you need to download the sport1m model found [here](https://www.dropbox.com/s/vr8ckp0pxgbldhs/conv3d_deepnetA_sport1m_iter_1900000?dl=0) and save it in `C3D-v1.0/examples/c3d_feature_extraction/`, and finally run the following scripts in order:
-1. `generate_io_txts.m`
+1. `generate_io_txts.m` - You can edit this file to change the stride C3D uses when extracting features for each video. The original value I used is 16.
 2. `C3D-v1.0/examples/c3d_feature_extraction/prototxt/extract.py` - this was written in Python because of a Matlab limitation, and it happens to be in a different directory from all the other scripts. Remember to run with python3 and pass `txt` as a parameter.
 3. `save_features.m`
 4. `save_features_2.m`
