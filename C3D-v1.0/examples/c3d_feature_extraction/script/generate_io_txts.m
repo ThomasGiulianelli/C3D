@@ -7,7 +7,7 @@
 names_of_folders = dir('/home/giuliat3/C3D/C3D-v1.0/examples/c3d_feature_extraction/input/avi/UCF-101');
 fnames = cell(1, length(names_of_folders));
 j = 1;
-stride = 16; %stride between the starting positions of each 16-frame clip
+stride = 8; %stride between the starting positions of each 16-frame clip
 
 %store each folder name
 for i=1 : length(names_of_folders)
@@ -72,7 +72,7 @@ for i=1 : length(fnames)
         end
         
         %loop through the frames
-        for p=0 : numFrames-(stride+2)
+        for p=0 : numFrames-(16+2) %16 is the length of a clip c3d uses by default, so this ensures that more than that many frames remain in the video
             
             %write to the files every 16 frames starting with frame 0
             if (mod(p,stride) == 0)
